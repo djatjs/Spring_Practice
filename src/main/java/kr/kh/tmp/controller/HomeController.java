@@ -23,8 +23,8 @@ public class HomeController {
 	}
 	
 	@GetMapping("/signup")
-	public String signup() {
-		
+	public String signup(Model model, String id) {
+		model.addAttribute("id", id);
 		return "/member/signup";
 	}
 	
@@ -34,7 +34,7 @@ public class HomeController {
 			model.addAttribute("url", "/");
 			model.addAttribute("msg", "회원가입 성공");
 		}else {
-			model.addAttribute("url", "/signup");
+			model.addAttribute("url", "/signup?id="+member.getMe_id());
 			model.addAttribute("msg", "회원가입 실패");			
 		}
 		return "message";

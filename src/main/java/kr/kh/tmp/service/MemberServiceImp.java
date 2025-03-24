@@ -6,6 +6,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 
 import kr.kh.tmp.dao.MemberDAO;
+import kr.kh.tmp.model.vo.MemberVO;
 
 @Service
 public class MemberServiceImp implements MemberService {
@@ -16,5 +17,16 @@ public class MemberServiceImp implements MemberService {
 	public String home() {
 		
 		return "home";
+	}
+
+	@Override
+	public boolean signup(MemberVO member) {
+		if(member == null) {
+			return false;
+		}
+		//아이디, 비번, 이메일 유효성 검사
+		
+		
+		return memberDao.insertMember(member);
 	}
 }

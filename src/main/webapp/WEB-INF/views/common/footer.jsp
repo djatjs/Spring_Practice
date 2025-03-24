@@ -7,6 +7,9 @@
 
 </head>
 <body>
-	<h1>메인페이지</h1>
+	<div class="jumbotron">
+	    <h1>Footer</h1>      
+	    <p>복습중.</p>
+	  </div>
 </body>
 </html>

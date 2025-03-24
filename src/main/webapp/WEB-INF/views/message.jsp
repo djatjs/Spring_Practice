@@ -7,6 +7,9 @@
 
 </head>
 <body>
-	<h1>메인페이지</h1>
+	<script type="text/javascript">
+		alert('${msg}');
+		location.href= "<c:url value="${url}"/>"
+	</script>
 </body>
 </html>

@@ -15,8 +15,9 @@ import kr.kh.tmp.service.MemberService;
 
 @Controller
 public class HomeController {
+	
 	@Autowired
-	private MemberService memberservice;
+	private MemberService memberService;
 
 	@RequestMapping(value = "/", method = RequestMethod.GET)
 	public String home() {
@@ -32,12 +33,12 @@ public class HomeController {
 	
 	@PostMapping("/signup")
 	public String signupPost(Model model, MemberVO member) {
-		if(memberservice.signup(member)) {
+		if(memberService.signup(member)) {
 			model.addAttribute("url", "/");
-			model.addAttribute("msg", "회원가입 성공");
+			model.addAttribute("msg", "회원 가입에 성공했습니다.");
 		}else {
-			model.addAttribute("url", "/signup?id="+member.getMe_id());
-			model.addAttribute("msg", "회원가입 실패");			
+			model.addAttribute("url", "/signup?id=" + member.getMe_id());
+			model.addAttribute("msg", "회원 가입에 실패했습니다.");
 		}
 		return "message";
 	}
@@ -47,27 +48,28 @@ public class HomeController {
 		model.addAttribute("id", id);
 		return "/member/login";
 	}
-	
 	@PostMapping("/login")
 	public String loginPost(Model model, MemberVO member) {
-		MemberVO user = memberservice.login(member);
+		MemberVO user = memberService.login(member); 
 		if(user != null) {
 			model.addAttribute("url", "/");
-			model.addAttribute("msg", "로그인 성공");
+			model.addAttribute("msg", "로그인에 성공했습니다.");
 			model.addAttribute("user", user);
 		}else {
-			model.addAttribute("url", "/login?id="+member.getMe_id());
-			model.addAttribute("msg", "로그인 실패");			
+			model.addAttribute("url", "/login?id=" + member.getMe_id());
+			model.addAttribute("msg", "로그인에 실패했습니다.");
 		}
 		return "message";
 	}
 	
 	@GetMapping("/logout")
-	public String logout(Model model, MemberVO user, HttpSession session) {
+	public String logout(Model model, HttpSession session) {
+		
 		session.removeAttribute("user");
 		
 		model.addAttribute("url", "/");
-		model.addAttribute("msg","로그아웃했습니다");
+		model.addAttribute("msg", "로그아웃 했습니다.");
 		return "message";
 	}
+	
 }

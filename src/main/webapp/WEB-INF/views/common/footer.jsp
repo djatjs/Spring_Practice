@@ -8,8 +8,7 @@
 </head>
 <body>
 	<div class="jumbotron">
-	    <h1>Footer</h1>      
-	    <p>복습중.</p>
-	  </div>
+	    <h1>푸터</h1>      
+	</div>
 </body>
 </html>

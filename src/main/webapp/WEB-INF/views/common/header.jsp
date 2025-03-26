@@ -12,12 +12,12 @@
 		<!-- 현재 롤체사이트면 로고 이미지 롤체로 두고, 옆에 있는 링크를 롤 사이트 링크로 바꾸기  -->
 		<!-- 현재 롤사이트면 로고 이미지 롤로 두고, 옆에 있는 링크를 롤체 사이트 링크로 바꾸기  -->
 		<a class="navbar-brand" href="<c:url value="/tft/home"/>">
-			<img src='<c:url value="/resources/img/tft_logo.png"/>' alt="logo" style="width: 40px;">
+			<img src='<c:url value="/resources/img/tft_logo.png"/>' alt="logo" style="width: 30px;">
 		</a>
 		<ul class="navbar-nav">
-			<li class="nav-item">
-				<a class="nav-link" href="#">Link 3</a>
-			</li>
+			<a class="navbar-brand" href="<c:url value="/tft/home"/>">
+				<img src='<c:url value="/resources/img/lol_logo.png"/>' alt="logo" style="width: 50px;">
+			</a>
 			<c:if test="${user == null}">
 				<li class="nav-item">
 					<a class="nav-link" href="<c:url value="/signup"/>">회원가입</a>

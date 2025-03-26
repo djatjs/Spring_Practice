@@ -1,450 +1,429 @@
 [
   {
-    "id": "TFT13_Garen",
+    "id": "TFT14_Garen",
     "name": "가렌",
+    "cost": 5,
+    "traits": ["네트워크의 신"],
+    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/14_champion/Garen.jpg"
+  },
+  {
+    "id": "TFT14_Galio",
+    "name": "갈리오",
+    "cost": 3,
+    "traits": ["사이퍼", "요새"],
+    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/14_champion/Galio.jpg"
+  },
+  {
+    "id": "TFT14_Gragas",
+    "name": "그라가스",
+    "cost": 3,
+    "traits": ["신성기업", "난동꾼"],
+    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/14_champion/Gragas.jpg"
+  },
+  {
+    "id": "TFT14_Graves",
+    "name": "그레이브즈",
+    "cost": 2,
+    "traits": ["황금 황소", "처형자"],
+    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/14_champion/Graves.jpg"
+  },
+  {
+    "id": "TFT14_Naafiri",
+    "name": "나피리",
+    "cost": 2,
+    "traits": ["엑소테크", "증.폭."],
+    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/14_champion/Naafiri.jpg"
+  },
+  {
+    "id": "TFT14_Nidalee",
+    "name": "니달리",
+    "cost": 1,
+    "traits": ["니트로", "증.폭."],
+    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/14_champion/Nidalee.jpg"
+  },
+  {
+    "id": "TFT14_Neeko",
+    "name": "니코",
     "cost": 4,
-    "traits": ["사절", "주시자"],
-    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/13_champion/Garen.png"
+    "traits": ["거리의 악마", "책략가"],
+    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/14_champion/Neeko.jpg"
   },
   {
-    "id": "TFT13_Gangplank",
-    "name": "갱플랭크",
-    "cost": 3,
-    "traits": ["고물상", "투사", "형태전환자"],
-    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/13_champion/Gangplank.png"
-  },
-  {
-    "id": "TFT13_NaMi",
-    "name": "나미",
-    "cost": 3,
-    "traits": ["사절", "마법사"],
-    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/13_champion/Nami.png"
-  },
-  {
-    "id": "TFT13_Nocturne",
-    "name": "녹턴",
-    "cost": 2,
-    "traits": ["자동기계", "기동타격대"],
-    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/13_champion/Nocturne.jpg"
-  },
-  {
-    "id": "TFT13_NunuWillump",
-    "name": "누누와 윌럼프",
-    "cost": 3,
-    "traits": ["실험체", "난동꾼", "선도자"],
-    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/13_champion/Nunu.png"
-  },
-  {
-    "id": "TFT13_Darius",
+    "id": "TFT14_Darius",
     "name": "다리우스",
-    "cost": 1,
-    "traits": ["정복자", "주시자"],
-    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/13_champion/Darius.png"
+    "cost": 2,
+    "traits": ["범죄 조직", "난동꾼"],
+    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/14_champion/Darius.jpg"
   },
   {
-    "id": "TFT13_Draven",
+    "id": "TFT14_Draven",
     "name": "드레이븐",
-    "cost": 1,
-    "traits": ["정복자", "투사"],
-    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/13_champion/Draven.png"
-  },
-  {
-    "id": "TFT13_Lux",
-    "name": "럭스",
-    "cost": 1,
-    "traits": ["아카데미", "마법사"],
-    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/13_champion/Lux.png"
-  },
-  {
-    "id": "TFT13_Rumble",
-    "name": "럼블",
-    "cost": 5,
-    "traits": ["고물의 왕", "고물상", "감시자"],
-    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/13_champion/Rumble.png"
-  },
-  {
-    "id": "TFT13_RenataGlasc",
-    "name": "레나타 글라스크",
-    "cost": 2,
-    "traits": ["화공 남작", "선도자"],
-    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/13_champion/Renata.png"
-  },
-  {
-    "id": "TFT13_Renni",
-    "name": "레니",
     "cost": 3,
-    "traits": ["화공 남작", "난동꾼"],
-    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/13_champion/Renni.png"
+    "traits": ["사이퍼", "속사포"],
+    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/14_champion/Draven.jpg"
   },
   {
-    "id": "TFT13_Leona",
+    "id": "TFT14_Rhaast",
+    "name": "라아스트",
+    "cost": 2,
+    "traits": ["신성기업", "선봉대"],
+    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/14_champion/Rhaast.jpg"
+  },
+  {
+    "id": "TFT14_Renekton",
+    "name": "레넥톤",
+    "cost": 5,
+    "traits": ["신성기업", "군주", "요새"],
+    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/14_champion/Renekton.jpg"
+  },
+  {
+    "id": "TFT14_Leona",
     "name": "레오나",
-    "cost": 2,
-    "traits": ["아카데미", "감시자"],
-    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/13_champion/Leona.png"
+    "cost": 4,
+    "traits": ["동물특공대", "선봉대"],
+    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/14_champion/Leona.jpg"
   },
   {
-    "id": "TFT13_Rell",
-    "name": "렐",
-    "cost": 2,
-    "traits": ["정복자", "감시자", "선도자"],
-    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/13_champion/Rell.png"
-  },
-  {
-    "id": "TFT13_Loris",
-    "name": "로리스",
+    "id": "TFT14_Rengar",
+    "name": "렝가",
     "cost": 3,
-    "traits": ["집행자", "감시자"],
-    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/13_champion/Loris.jpg"
+    "traits": ["거리의 악마", "처형자"],
+    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/14_champion/Rengar.jpg"
   },
   {
-    "id": "TFT13_LeBlanc",
+    "id": "TFT14_LeBlanc",
     "name": "르블랑",
-    "cost": 5,
-    "traits": ["검은장미단", "마법사"],
-    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/13_champion/Leblanc.png"
+    "cost": 2,
+    "traits": ["사이퍼", "책략가"],
+    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/14_champion/LeBlanc.jpg"
   },
   {
-    "id": "TFT13_Malzahar",
-    "name": "말자하",
-    "cost": 5,
-    "traits": ["자동기계", "선도자"],
-    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/13_champion/Malzahar.png"
-  },
-  {
-    "id": "TFT13_Maddie",
-    "name": "매디",
-    "cost": 1,
-    "traits": ["집행자", "저격수"],
-    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/13_champion/Maddie.jpg"
-  },
-  {
-    "id": "TFT13_Mel",
-    "name": "멜",
-    "cost": 6,
-    "traits": ["추방당한 마법사"],
-    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/13_champion/Mel.png"
-  },
-  {
-    "id": "TFT13_Mordekaiser",
+    "id": "TFT14_Mordekaiser",
     "name": "모데카이저",
-    "cost": 5,
-    "traits": ["정복자", "지배자"],
-    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/13_champion/Mordekaiser.png"
+    "cost": 3,
+    "traits": ["엑소테크", "기술광", "난동꾼"],
+    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/14_champion/Mordekaiser.jpg"
   },
   {
-    "id": "TFT13_Morgana",
+    "id": "TFT14_Morgana",
     "name": "모르가나",
     "cost": 1,
-    "traits": ["검은장미단", "선도자"],
-    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/13_champion/Morgana.png"
+    "traits": ["신성기업", "다이나모"],
+    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/14_champion/Morgana.jpg"
   },
   {
-    "id": "TFT13_DrMundo",
+    "id": "TFT14_DrMundo",
     "name": "문도 박사",
-    "cost": 4,
-    "traits": ["실험체", "지배자"],
-    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/13_champion/DrMundo.png"
+    "cost": 1,
+    "traits": ["거리의 악마", "난동꾼", "학살자"],
+    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/14_champion/DrMundo.jpg"
   },
   {
-    "id": "TFT13_Vi",
+    "id": "TFT14_MissFortune",
+    "name": "미스 포츈",
+    "cost": 4,
+    "traits": ["범죄 조직", "다이나모"],
+    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/14_champion/MissFortune.jpg"
+  },
+  {
+    "id": "TFT14_Varus",
+    "name": "바루스",
+    "cost": 3,
+    "traits": ["엑소테크", "처형자"],
+    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/14_champion/Varus.jpg"
+  },
+  {
+    "id": "TFT14_Vi",
     "name": "바이",
-    "cost": 4,
-    "traits": ["집행자", "투사"],
-    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/13_champion/Vi.png"
-  },
-  {
-    "id": "TFT13_Violet",
-    "name": "바이올렛",
     "cost": 1,
-    "traits": ["가족", "투사"],
-    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/13_champion/Violet.jpg"
+    "traits": ["사이퍼", "선봉대"],
+    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/14_champion/Vi.jpg"
   },
   {
-    "id": "TFT13_Vander",
-    "name": "벤더",
+    "id": "TFT14_Veigar",
+    "name": "베이가",
     "cost": 2,
-    "traits": ["가족", "주시자"],
-    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/13_champion/Vander.jpg"
+    "traits": ["사이버보스", "기술광"],
+    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/14_champion/Veigar.jpg"
   },
   {
-    "id": "TFT13_Vex",
+    "id": "TFT14_Vayne",
+    "name": "베인",
+    "cost": 2,
+    "traits": ["동물특공대", "학살자"],
+    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/14_champion/Vayne.jpg"
+  },
+  {
+    "id": "TFT14_Vex",
     "name": "벡스",
-    "cost": 1,
-    "traits": ["반군", "선도자"],
-    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/13_champion/Vex.png"
+    "cost": 4,
+    "traits": ["신성기업", "학살자"],
+    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/14_champion/Vex.jpg"
   },
   {
-    "id": "TFT13_Vladimir",
-    "name": "블라디미르",
-    "cost": 2,
-    "traits": ["검은장미단", "마법사", "주시자"],
-    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/13_champion/Vladimir.png"
-  },
-  {
-    "id": "TFT13_Blitzcrank",
-    "name": "블리츠크랭크",
+    "id": "TFT14_Braum",
+    "name": "브라움",
     "cost": 3,
-    "traits": ["자동기계", "지배자"],
-    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/13_champion/Blitzcrank.png"
+    "traits": ["범죄 조직", "선봉대"],
+    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/14_champion/Braum.jpg"
   },
   {
-    "id": "TFT13_Viktor",
-    "name": "빅토르",
-    "cost": 6,
-    "traits": ["기계화의 전령관"],
-    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/13_champion/Viktor.png"
+    "id": "TFT14_Brand",
+    "name": "브랜드",
+    "cost": 4,
+    "traits": ["거리의 악마", "기술광"],
+    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/14_champion/Brand.jpg"
   },
   {
-    "id": "TFT13_Sevika",
-    "name": "세비카",
+    "id": "TFT14_Viego",
+    "name": "비에고",
     "cost": 5,
-    "traits": ["화공 남작", "도박꾼", "투사"],
-    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/13_champion/Sevika.jpg"
+    "traits": ["황금 황소", "영혼 살해자", "기술광"],
+    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/14_champion/Viego.jpg"
   },
   {
-    "id": "TFT13_Sett",
-    "name": "세트",
-    "cost": 2,
-    "traits": ["반군", "난동꾼", "투사"],
-    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/13_champion/Sett.png"
-  },
-  {
-    "id": "TFT13_Smeech",
-    "name": "스미치",
-    "cost": 3,
-    "traits": ["화공 남작", "매복자"],
-    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/13_champion/Smeech.jpg"
-  },
-  {
-    "id": "TFT13_Swain",
-    "name": "스웨인",
-    "cost": 3,
-    "traits": ["정복자", "마법사", "형태전환자"],
-    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/13_champion/Swain.png"
-  },
-  {
-    "id": "TFT13_Scar",
-    "name": "스카",
-    "cost": 3,
-    "traits": ["점화단", "주시자"],
-    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/13_champion/Scar.jpg"
-  },
-  {
-    "id": "TFT13_Steb",
-    "name": "스텝",
+    "id": "TFT14_Poppy",
+    "name": "뽀삐",
     "cost": 1,
-    "traits": ["집행자", "난동꾼"],
-    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/13_champion/Steb.jpg"
+    "traits": ["사이버보스", "요새"],
+    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/14_champion/Poppy.jpg"
   },
   {
-    "id": "TFT13_Singed",
-    "name": "신지드",
+    "id": "TFT14_Samira",
+    "name": "사미라",
+    "cost": 5,
+    "traits": ["거리의 악마", "증.폭."],
+    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/14_champion/Samira.jpg"
+  },
+  {
+    "id": "TFT14_Sylas",
+    "name": "사일러스",
     "cost": 1,
-    "traits": ["화공 남작", "감시자"],
-    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/13_champion/Singed.png"
+    "traits": ["동물특공대", "선봉대"],
+    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/14_champion/Sylas.jpg"
   },
   {
-    "id": "TFT13_Silco",
-    "name": "실코",
+    "id": "TFT14_Shaco",
+    "name": "샤코",
+    "cost": 1,
+    "traits": ["범죄 조직", "학살자"],
+    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/14_champion/Shaco.jpg"
+  },
+  {
+    "id": "TFT14_Senna",
+    "name": "세나",
+    "cost": 3,
+    "traits": ["신성기업", "학살자"],
+    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/14_champion/Senna.jpg"
+  },
+  {
+    "id": "TFT14_Seraphine",
+    "name": "세라핀",
+    "cost": 1,
+    "traits": ["동물특공대", "기술광"],
+    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/14_champion/Seraphine.jpg"
+  },
+  {
+    "id": "TFT14_Sejuani",
+    "name": "세주아니",
     "cost": 4,
-    "traits": ["화공 남작", "지배자"],
-    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/13_champion/Silco.jpg"
+    "traits": ["엑소테크", "요새"],
+    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/14_champion/Sejuani.jpg"
   },
   {
-    "id": "TFT13_Amumu",
-    "name": "아무무",
-    "cost": 1,
-    "traits": ["자동기계", "주시자"],
-    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/13_champion/Amumu.png"
-  },
-  {
-    "id": "TFT13_Akali",
-    "name": "아칼리",
+    "id": "TFT14_Shyvana",
+    "name": "쉬바나",
     "cost": 2,
-    "traits": ["반군", "기동타격대"],
-    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/13_champion/Akali.png"
+    "traits": ["니트로", "기술광", "요새"],
+    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/14_champion/Shyvana.jpg"
   },
   {
-    "id": "TFT13_Ambessa",
-    "name": "암베사",
+    "id": "TFT14_Skarner",
+    "name": "스카너",
+    "cost": 2,
+    "traits": ["폭발 봇", "선봉대"],
+    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/14_champion/Skarner.jpg"
+  },
+  {
+    "id": "TFT14_Skarner",
+    "name": "아펠리오스",
     "cost": 4,
-    "traits": ["정복자", "사절", "기동타격대"],
-    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/13_champion/Ambessa.png"
+    "traits": ["황금 황소", "사격수"],
+    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/14_champion/Aphelios.jpg"
   },
   {
-    "id": "TFT13_Ekko",
+    "id": "TFT14_Alistar",
+    "name": "알리스타",
+    "cost": 1,
+    "traits": ["황금 황소", "난동꾼"],
+    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/14_champion/Alistar.jpg"
+  },
+  {
+    "id": "TFT14_Annie",
+    "name": "애니",
+    "cost": 4,
+    "traits": ["황금 황소", "증.폭."],
+    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/14_champion/Annie.jpg"
+  },
+  {
+    "id": "TFT14_Ekko",
     "name": "에코",
-    "cost": 4,
-    "traits": ["점화단", "고물상", "매복자"],
-    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/13_champion/Ekko.png"
-  },
-  {
-    "id": "TFT13_Elise",
-    "name": "엘리스",
-    "cost": 4,
-    "traits": ["검은장미단", "난동꾼", "형태전환자"],
-    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/13_champion/Elise.png"
-  },
-  {
-    "id": "TFT13_Urgot",
-    "name": "우르곳",
     "cost": 2,
-    "traits": ["실험체", "투사", "포수"],
-    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/13_champion/Urgot.png"
+    "traits": ["거리의 악마", "책략가"],
+    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/14_champion/Ekko.jpg"
   },
   {
-    "id": "TFT13_Warwick",
-    "name": "워윅",
-    "cost": 6,
-    "traits": ["피의 사냥꾼", "실험체"],
-    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/13_champion/Warwick.png"
-  },
-  {
-    "id": "TFT13_Irelia",
-    "name": "이렐리아",
-    "cost": 1,
-    "traits": ["반군", "감시자"],
-    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/13_champion/Irelia.png"
-  },
-  {
-    "id": "TFT13_Ezreal",
-    "name": "이즈리얼",
+    "id": "TFT14_Elise",
+    "name": "앨리스",
     "cost": 3,
-    "traits": ["아카데미", "반군", "포수"],
-    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/13_champion/Ezreal.png"
+    "traits": ["니트로", "다이나모"],
+    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/14_champion/Elise.jpg"
   },
   {
-    "id": "TFT13_Illaoi",
+    "id": "TFT14_Aurora",
+    "name": "오로라",
+    "cost": 5,
+    "traits": ["동물특공대", "다이나모"],
+    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/14_champion/Aurora.jpg"
+  },
+  {
+    "id": "TFT14_Urgot",
+    "name": "우르곳",
+    "cost": 5,
+    "traits": ["폭발 봇", "처형자"],
+    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/14_champion/Urgot.jpg"
+  },
+  {
+    "id": "TFT14_Yuumi",
+    "name": "유미",
+    "cost": 3,
+    "traits": ["동물특공대", "증.폭.", "책략가"],
+    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/14_champion/Yuumi.jpg"
+  },
+  {
+    "id": "TFT14_Illaoi",
     "name": "일라오이",
-    "cost": 4,
-    "traits": ["반군", "감시자"],
-    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/13_champion/Illaoi.png"
+    "cost": 2,
+    "traits": ["동물특공대", "요새"],
+    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/14_champion/Illaoi.jpg"
   },
   {
-    "id": "TFT13_Zyra",
+    "id": "TFT14_JarvanIV",
+    "name": "자르반 4세",
+    "cost": 3,
+    "traits": ["황금 황소", "선봉대", "학살자"],
+    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/14_champion/JarvanIV.jpg"
+  },
+  {
+    "id": "TFT14_Xayah",
+    "name": "자야",
+    "cost": 4,
+    "traits": ["동물특공대", "사격수"],
+    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/14_champion/Xayah.jpg"
+  },
+  {
+    "id": "TFT14_Zyra",
     "name": "자이라",
     "cost": 1,
-    "traits": ["실험체", "마법사"],
-    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/13_champion/Zyra.png"
+    "traits": ["거리의 악마", "기술광"],
+    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/14_champion/Zyra.jpg"
   },
   {
-    "id": "TFT13_Zeri",
+    "id": "TFT14_Zac",
+    "name": "자크",
+    "cost": 5,
+    "traits": ["바이러스"],
+    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/14_champion/Zac.jpg"
+  },
+  {
+    "id": "TFT14_Jax",
+    "name": "잭스",
+    "cost": 1,
+    "traits": ["엑소테크", "요새"],
+    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/14_champion/Jax.jpg"
+  },
+  {
+    "id": "TFT14_Zed",
+    "name": "제드",
+    "cost": 4,
+    "traits": ["사이퍼", "학살자"],
+    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/14_champion/Zed.jpg"
+  },
+  {
+    "id": "TFT14_Zeri",
     "name": "제리",
-    "cost": 2,
-    "traits": ["점화단", "저격수"],
-    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/13_champion/Zeri.png"
-  },
-  {
-    "id": "TFT13_Jayce",
-    "name": "제이스",
-    "cost": 5,
-    "traits": ["아카데미", "형태전환자"],
-    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/13_champion/Jayce.png"
-  },
-  {
-    "id": "TFT13_Zoe",
-    "name": "조이",
     "cost": 4,
-    "traits": ["반군", "마법사"],
-    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/13_champion/Zoe.png"
+    "traits": ["엑소테크", "속사포"],
+    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/14_champion/Zeri.jpg"
   },
   {
-    "id": "TFT13_Ziggs",
+    "id": "TFT14_Ziggs",
     "name": "직스",
-    "cost": 2,
-    "traits": ["고물상", "지배자"],
-    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/13_champion/Ziggs.png"
+    "cost": 4,
+    "traits": ["사이버보스", "책략가"],
+    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/14_champion/Ziggs.jpg"
   },
   {
-    "id": "TFT13_Jinx",
+    "id": "TFT14_Jhin",
+    "name": "진",
+    "cost": 2,
+    "traits": ["엑소테크", "다이나모", "사격수"],
+    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/14_champion/Jhin.jpg"
+  },
+  {
+    "id": "TFT14_Jinx",
     "name": "징크스",
-    "cost": 5,
-    "traits": ["반군", "매복자"],
-    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/13_champion/Jinx.png"
-  },
-  {
-    "id": "TFT13_Camille",
-    "name": "카밀",
-    "cost": 2,
-    "traits": ["집행자", "매복자"],
-    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/13_champion/Camille.png"
-  },
-  {
-    "id": "TFT13_Cassiopeia",
-    "name": "카시오페아",
     "cost": 3,
-    "traits": ["검은장미단", "지배자"],
-    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/13_champion/Cassiopeia.png"
+    "traits": ["거리의 악마", "사격수"],
+    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/14_champion/Jinx.jpg"
   },
   {
-    "id": "TFT13_Caitlyn",
-    "name": "케이틀린",
-    "cost": 5,
-    "traits": ["집행자", "저격수"],
-    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/13_champion/Caitlyn.png"
+    "id": "TFT14_ChoGath",
+    "name": "초가스",
+    "cost": 4,
+    "traits": ["폭발 봇", "난동꾼"],
+    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/14_champion/ChoGath.jpg"
   },
   {
-    "id": "TFT13_KogMaw",
+    "id": "TFT14_KogMaw",
     "name": "코그모",
-    "cost": 3,
-    "traits": ["자동기계", "저격수"],
-    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/13_champion/KogMaw.png"
-  },
-  {
-    "id": "TFT13_Corki",
-    "name": "코르키",
-    "cost": 4,
-    "traits": ["고물상", "포수"],
-    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/13_champion/Corki.png"
-  },
-  {
-    "id": "TFT13_Trundle",
-    "name": "트런들",
     "cost": 1,
-    "traits": ["고물상", "난동꾼"],
-    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/13_champion/Trundle.png"
+    "traits": ["폭발 봇", "속사포"],
+    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/14_champion/KogMaw.jpg"
   },
   {
-    "id": "TFT13_Tristana",
-    "name": "트리스타나",
-    "cost": 2,
-    "traits": ["사절", "포수"],
-    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/13_champion/Tristana.png"
+    "id": "TFT14_Kobuko",
+    "name": "코부코",
+    "cost": 5,
+    "traits": ["사이버보스", "난동꾼"],
+    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/14_champion/Kobuko.jpg"
   },
   {
-    "id": "TFT13_TwistedFate",
+    "id": "TFT14_Kindred",
+    "name": "킨드레드",
+    "cost": 1,
+    "traits": ["니트로", "사격수", "속사포"],
+    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/14_champion/Kindred.jpg"
+  },
+  {
+    "id": "TFT14_TwistedFate",
     "name": "트위스티드 페이트",
+    "cost": 2,
+    "traits": ["범죄 조직", "속사포"],
+    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/14_champion/TwistedFate.jpg"
+  },
+  {
+    "id": "TFT14_Fiddlesticks",
+    "name": "피들스틱",
     "cost": 3,
-    "traits": ["집행자", "기동타격대"],
-    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/13_champion/TwistedFate.png"
+    "traits": ["폭발 봇", "기술광"],
+    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/14_champion/Fiddlesticks.jpg"
   },
   {
-    "id": "TFT13_Twitch",
-    "name": "트위치",
-    "cost": 4,
-    "traits": ["실험체", "저격수"],
-    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/13_champion/Twitch.png"
-  },
-  {
-    "id": "TFT13_Powder",
-    "name": "파우더",
-    "cost": 1,
-    "traits": ["가족", "매복자"],
-    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/13_champion/Powder.jpg"
-  },
-  {
-    "id": "TFT13_Heimerdinger",
-    "name": "하이머딩거",
-    "cost": 4,
-    "traits": ["아카데미", "선도자"],
-    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/13_champion/Heimerdinger.png"
-  },
-  {
-    "id": "TFT13_Dummy",
+    "id": "TFT14_Dummy",
     "name": "훈련봇",
     "cost": 0,
     "traits": [],
-    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/13_champion/Dummy.png"
+    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/14_champion/Dummy.png"
   }
 ]

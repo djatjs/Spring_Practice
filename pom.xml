@@ -8,12 +8,13 @@
 	<packaging>war</packaging>
 	<version>1.0.0-BUILD-SNAPSHOT</version>
 	<properties>
-		<java-version>11</java-version>
-		<org.springframework-version>5.1.8.RELEASE</org.springframework-version>
-		<org.aspectj-version>1.6.10</org.aspectj-version>
-		<org.slf4j-version>1.6.6</org.slf4j-version>
-		<org.apache.tiles-version>3.0.8</org.apache.tiles-version>
+	     <java.version>11</java.version>
+	    <org.springframework-version>5.1.8.RELEASE</org.springframework-version>
+	    <org.aspectj-version>1.6.10</org.aspectj-version>
+	    <org.slf4j-version>1.6.6</org.slf4j-version>
+	    <org.apache.tiles-version>3.0.8</org.apache.tiles-version>
 	</properties>
+
 	<dependencies>
 		<!-- Spring -->
 		<dependency>
@@ -194,6 +195,23 @@
 		    <version>${org.springframework-version}</version>
 		</dependency>
 		
+		<!-- Jackson 라이브러리 -->
+		<dependency>
+	        <groupId>com.fasterxml.jackson.core</groupId>
+	        <artifactId>jackson-databind</artifactId>
+	        <version>2.15.0</version> <!-- 최신 버전으로 변경 가능 -->
+	    </dependency>
+	    <dependency>
+	        <groupId>com.fasterxml.jackson.core</groupId>
+	        <artifactId>jackson-core</artifactId>
+	        <version>2.15.0</version>
+	    </dependency>
+	    <dependency>
+	        <groupId>com.fasterxml.jackson.core</groupId>
+	        <artifactId>jackson-annotations</artifactId>
+	        <version>2.15.0</version>
+	    </dependency>
+		
 	</dependencies>
     <build>
         <plugins>
@@ -212,17 +230,17 @@
                 </configuration>
             </plugin>
             <plugin>
-                <groupId>org.apache.maven.plugins</groupId>
-                <artifactId>maven-compiler-plugin</artifactId>
-                <version>2.5.1</version>
-                <configuration>
-                    <source>1.6</source>
-                    <target>1.6</target>
-                    <compilerArgument>-Xlint:all</compilerArgument>
-                    <showWarnings>true</showWarnings>
-                    <showDeprecation>true</showDeprecation>
-                </configuration>
-            </plugin>
+			    <groupId>org.apache.maven.plugins</groupId>
+			    <artifactId>maven-compiler-plugin</artifactId>
+			    <version>3.8.1</version> <!-- 최신 안정 버전으로 변경 -->
+			    <configuration>
+			        <source>11</source>
+			        <target>11</target>
+			        <compilerArgument>-Xlint:all</compilerArgument>
+			        <showWarnings>true</showWarnings>
+			        <showDeprecation>true</showDeprecation>
+			    </configuration>
+			</plugin>
             <plugin>
                 <groupId>org.codehaus.mojo</groupId>
                 <artifactId>exec-maven-plugin</artifactId>

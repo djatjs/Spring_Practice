@@ -12,6 +12,7 @@ import org.springframework.web.bind.annotation.RequestMethod;
 
 import kr.kh.tmp.model.vo.MemberVO;
 import kr.kh.tmp.service.MemberService;
+import kr.kh.tmp.service.UnitService;
 
 @Controller
 public class HomeController {
@@ -70,4 +71,15 @@ public class HomeController {
 		model.addAttribute("msg","로그아웃했습니다");
 		return "message";
 	}
+	// ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+	// ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+	@Autowired
+	private UnitService unitService;
+	
+	@GetMapping("/tft/home")
+	public String tftHome(Model model) {
+		model.addAttribute("units", unitService.getAllUnits()); 
+		return "units";
+	}
+	
 }

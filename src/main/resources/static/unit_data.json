@@ -1,0 +1,450 @@
+[
+  {
+    "id": "TFT13_Garen",
+    "name": "가렌",
+    "cost": 4,
+    "traits": ["사절", "주시자"],
+    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/13_champion/Garen.png"
+  },
+  {
+    "id": "TFT13_Gangplank",
+    "name": "갱플랭크",
+    "cost": 3,
+    "traits": ["고물상", "투사", "형태전환자"],
+    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/13_champion/Gangplank.png"
+  },
+  {
+    "id": "TFT13_NaMi",
+    "name": "나미",
+    "cost": 3,
+    "traits": ["사절", "마법사"],
+    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/13_champion/Nami.png"
+  },
+  {
+    "id": "TFT13_Nocturne",
+    "name": "녹턴",
+    "cost": 2,
+    "traits": ["자동기계", "기동타격대"],
+    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/13_champion/Nocturne.jpg"
+  },
+  {
+    "id": "TFT13_NunuWillump",
+    "name": "누누와 윌럼프",
+    "cost": 3,
+    "traits": ["실험체", "난동꾼", "선도자"],
+    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/13_champion/Nunu.png"
+  },
+  {
+    "id": "TFT13_Darius",
+    "name": "다리우스",
+    "cost": 1,
+    "traits": ["정복자", "주시자"],
+    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/13_champion/Darius.png"
+  },
+  {
+    "id": "TFT13_Draven",
+    "name": "드레이븐",
+    "cost": 1,
+    "traits": ["정복자", "투사"],
+    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/13_champion/Draven.png"
+  },
+  {
+    "id": "TFT13_Lux",
+    "name": "럭스",
+    "cost": 1,
+    "traits": ["아카데미", "마법사"],
+    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/13_champion/Lux.png"
+  },
+  {
+    "id": "TFT13_Rumble",
+    "name": "럼블",
+    "cost": 5,
+    "traits": ["고물의 왕", "고물상", "감시자"],
+    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/13_champion/Rumble.png"
+  },
+  {
+    "id": "TFT13_RenataGlasc",
+    "name": "레나타 글라스크",
+    "cost": 2,
+    "traits": ["화공 남작", "선도자"],
+    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/13_champion/Renata.png"
+  },
+  {
+    "id": "TFT13_Renni",
+    "name": "레니",
+    "cost": 3,
+    "traits": ["화공 남작", "난동꾼"],
+    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/13_champion/Renni.png"
+  },
+  {
+    "id": "TFT13_Leona",
+    "name": "레오나",
+    "cost": 2,
+    "traits": ["아카데미", "감시자"],
+    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/13_champion/Leona.png"
+  },
+  {
+    "id": "TFT13_Rell",
+    "name": "렐",
+    "cost": 2,
+    "traits": ["정복자", "감시자", "선도자"],
+    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/13_champion/Rell.png"
+  },
+  {
+    "id": "TFT13_Loris",
+    "name": "로리스",
+    "cost": 3,
+    "traits": ["집행자", "감시자"],
+    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/13_champion/Loris.jpg"
+  },
+  {
+    "id": "TFT13_LeBlanc",
+    "name": "르블랑",
+    "cost": 5,
+    "traits": ["검은장미단", "마법사"],
+    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/13_champion/Leblanc.png"
+  },
+  {
+    "id": "TFT13_Malzahar",
+    "name": "말자하",
+    "cost": 5,
+    "traits": ["자동기계", "선도자"],
+    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/13_champion/Malzahar.png"
+  },
+  {
+    "id": "TFT13_Maddie",
+    "name": "매디",
+    "cost": 1,
+    "traits": ["집행자", "저격수"],
+    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/13_champion/Maddie.jpg"
+  },
+  {
+    "id": "TFT13_Mel",
+    "name": "멜",
+    "cost": 6,
+    "traits": ["추방당한 마법사"],
+    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/13_champion/Mel.png"
+  },
+  {
+    "id": "TFT13_Mordekaiser",
+    "name": "모데카이저",
+    "cost": 5,
+    "traits": ["정복자", "지배자"],
+    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/13_champion/Mordekaiser.png"
+  },
+  {
+    "id": "TFT13_Morgana",
+    "name": "모르가나",
+    "cost": 1,
+    "traits": ["검은장미단", "선도자"],
+    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/13_champion/Morgana.png"
+  },
+  {
+    "id": "TFT13_DrMundo",
+    "name": "문도 박사",
+    "cost": 4,
+    "traits": ["실험체", "지배자"],
+    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/13_champion/DrMundo.png"
+  },
+  {
+    "id": "TFT13_Vi",
+    "name": "바이",
+    "cost": 4,
+    "traits": ["집행자", "투사"],
+    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/13_champion/Vi.png"
+  },
+  {
+    "id": "TFT13_Violet",
+    "name": "바이올렛",
+    "cost": 1,
+    "traits": ["가족", "투사"],
+    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/13_champion/Violet.jpg"
+  },
+  {
+    "id": "TFT13_Vander",
+    "name": "벤더",
+    "cost": 2,
+    "traits": ["가족", "주시자"],
+    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/13_champion/Vander.jpg"
+  },
+  {
+    "id": "TFT13_Vex",
+    "name": "벡스",
+    "cost": 1,
+    "traits": ["반군", "선도자"],
+    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/13_champion/Vex.png"
+  },
+  {
+    "id": "TFT13_Vladimir",
+    "name": "블라디미르",
+    "cost": 2,
+    "traits": ["검은장미단", "마법사", "주시자"],
+    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/13_champion/Vladimir.png"
+  },
+  {
+    "id": "TFT13_Blitzcrank",
+    "name": "블리츠크랭크",
+    "cost": 3,
+    "traits": ["자동기계", "지배자"],
+    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/13_champion/Blitzcrank.png"
+  },
+  {
+    "id": "TFT13_Viktor",
+    "name": "빅토르",
+    "cost": 6,
+    "traits": ["기계화의 전령관"],
+    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/13_champion/Viktor.png"
+  },
+  {
+    "id": "TFT13_Sevika",
+    "name": "세비카",
+    "cost": 5,
+    "traits": ["화공 남작", "도박꾼", "투사"],
+    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/13_champion/Sevika.jpg"
+  },
+  {
+    "id": "TFT13_Sett",
+    "name": "세트",
+    "cost": 2,
+    "traits": ["반군", "난동꾼", "투사"],
+    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/13_champion/Sett.png"
+  },
+  {
+    "id": "TFT13_Smeech",
+    "name": "스미치",
+    "cost": 3,
+    "traits": ["화공 남작", "매복자"],
+    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/13_champion/Smeech.jpg"
+  },
+  {
+    "id": "TFT13_Swain",
+    "name": "스웨인",
+    "cost": 3,
+    "traits": ["정복자", "마법사", "형태전환자"],
+    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/13_champion/Swain.png"
+  },
+  {
+    "id": "TFT13_Scar",
+    "name": "스카",
+    "cost": 3,
+    "traits": ["점화단", "주시자"],
+    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/13_champion/Scar.jpg"
+  },
+  {
+    "id": "TFT13_Steb",
+    "name": "스텝",
+    "cost": 1,
+    "traits": ["집행자", "난동꾼"],
+    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/13_champion/Steb.jpg"
+  },
+  {
+    "id": "TFT13_Singed",
+    "name": "신지드",
+    "cost": 1,
+    "traits": ["화공 남작", "감시자"],
+    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/13_champion/Singed.png"
+  },
+  {
+    "id": "TFT13_Silco",
+    "name": "실코",
+    "cost": 4,
+    "traits": ["화공 남작", "지배자"],
+    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/13_champion/Silco.jpg"
+  },
+  {
+    "id": "TFT13_Amumu",
+    "name": "아무무",
+    "cost": 1,
+    "traits": ["자동기계", "주시자"],
+    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/13_champion/Amumu.png"
+  },
+  {
+    "id": "TFT13_Akali",
+    "name": "아칼리",
+    "cost": 2,
+    "traits": ["반군", "기동타격대"],
+    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/13_champion/Akali.png"
+  },
+  {
+    "id": "TFT13_Ambessa",
+    "name": "암베사",
+    "cost": 4,
+    "traits": ["정복자", "사절", "기동타격대"],
+    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/13_champion/Ambessa.png"
+  },
+  {
+    "id": "TFT13_Ekko",
+    "name": "에코",
+    "cost": 4,
+    "traits": ["점화단", "고물상", "매복자"],
+    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/13_champion/Ekko.png"
+  },
+  {
+    "id": "TFT13_Elise",
+    "name": "엘리스",
+    "cost": 4,
+    "traits": ["검은장미단", "난동꾼", "형태전환자"],
+    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/13_champion/Elise.png"
+  },
+  {
+    "id": "TFT13_Urgot",
+    "name": "우르곳",
+    "cost": 2,
+    "traits": ["실험체", "투사", "포수"],
+    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/13_champion/Urgot.png"
+  },
+  {
+    "id": "TFT13_Warwick",
+    "name": "워윅",
+    "cost": 6,
+    "traits": ["피의 사냥꾼", "실험체"],
+    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/13_champion/Warwick.png"
+  },
+  {
+    "id": "TFT13_Irelia",
+    "name": "이렐리아",
+    "cost": 1,
+    "traits": ["반군", "감시자"],
+    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/13_champion/Irelia.png"
+  },
+  {
+    "id": "TFT13_Ezreal",
+    "name": "이즈리얼",
+    "cost": 3,
+    "traits": ["아카데미", "반군", "포수"],
+    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/13_champion/Ezreal.png"
+  },
+  {
+    "id": "TFT13_Illaoi",
+    "name": "일라오이",
+    "cost": 4,
+    "traits": ["반군", "감시자"],
+    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/13_champion/Illaoi.png"
+  },
+  {
+    "id": "TFT13_Zyra",
+    "name": "자이라",
+    "cost": 1,
+    "traits": ["실험체", "마법사"],
+    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/13_champion/Zyra.png"
+  },
+  {
+    "id": "TFT13_Zeri",
+    "name": "제리",
+    "cost": 2,
+    "traits": ["점화단", "저격수"],
+    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/13_champion/Zeri.png"
+  },
+  {
+    "id": "TFT13_Jayce",
+    "name": "제이스",
+    "cost": 5,
+    "traits": ["아카데미", "형태전환자"],
+    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/13_champion/Jayce.png"
+  },
+  {
+    "id": "TFT13_Zoe",
+    "name": "조이",
+    "cost": 4,
+    "traits": ["반군", "마법사"],
+    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/13_champion/Zoe.png"
+  },
+  {
+    "id": "TFT13_Ziggs",
+    "name": "직스",
+    "cost": 2,
+    "traits": ["고물상", "지배자"],
+    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/13_champion/Ziggs.png"
+  },
+  {
+    "id": "TFT13_Jinx",
+    "name": "징크스",
+    "cost": 5,
+    "traits": ["반군", "매복자"],
+    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/13_champion/Jinx.png"
+  },
+  {
+    "id": "TFT13_Camille",
+    "name": "카밀",
+    "cost": 2,
+    "traits": ["집행자", "매복자"],
+    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/13_champion/Camille.png"
+  },
+  {
+    "id": "TFT13_Cassiopeia",
+    "name": "카시오페아",
+    "cost": 3,
+    "traits": ["검은장미단", "지배자"],
+    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/13_champion/Cassiopeia.png"
+  },
+  {
+    "id": "TFT13_Caitlyn",
+    "name": "케이틀린",
+    "cost": 5,
+    "traits": ["집행자", "저격수"],
+    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/13_champion/Caitlyn.png"
+  },
+  {
+    "id": "TFT13_KogMaw",
+    "name": "코그모",
+    "cost": 3,
+    "traits": ["자동기계", "저격수"],
+    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/13_champion/KogMaw.png"
+  },
+  {
+    "id": "TFT13_Corki",
+    "name": "코르키",
+    "cost": 4,
+    "traits": ["고물상", "포수"],
+    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/13_champion/Corki.png"
+  },
+  {
+    "id": "TFT13_Trundle",
+    "name": "트런들",
+    "cost": 1,
+    "traits": ["고물상", "난동꾼"],
+    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/13_champion/Trundle.png"
+  },
+  {
+    "id": "TFT13_Tristana",
+    "name": "트리스타나",
+    "cost": 2,
+    "traits": ["사절", "포수"],
+    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/13_champion/Tristana.png"
+  },
+  {
+    "id": "TFT13_TwistedFate",
+    "name": "트위스티드 페이트",
+    "cost": 3,
+    "traits": ["집행자", "기동타격대"],
+    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/13_champion/TwistedFate.png"
+  },
+  {
+    "id": "TFT13_Twitch",
+    "name": "트위치",
+    "cost": 4,
+    "traits": ["실험체", "저격수"],
+    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/13_champion/Twitch.png"
+  },
+  {
+    "id": "TFT13_Powder",
+    "name": "파우더",
+    "cost": 1,
+    "traits": ["가족", "매복자"],
+    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/13_champion/Powder.jpg"
+  },
+  {
+    "id": "TFT13_Heimerdinger",
+    "name": "하이머딩거",
+    "cost": 4,
+    "traits": ["아카데미", "선도자"],
+    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/13_champion/Heimerdinger.png"
+  },
+  {
+    "id": "TFT13_Dummy",
+    "name": "훈련봇",
+    "cost": 0,
+    "traits": [],
+    "image": "https://cdn.jsdelivr.net/gh/djatjs/Riot_img@main/TFT/img/13_champion/Dummy.png"
+  }
+]
